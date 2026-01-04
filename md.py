@@ -1,4 +1,4 @@
-# Dataset (daily temperatures)
+# Dataset daily temperaturesS
 temps = [20, 22, 24, 26]
 
 # Range
@@ -28,3 +28,4 @@ print("Temperatures:", temps)
 print("Range:", data_range)
 print("Variance:", variance)
 print("Standard Deviation:", std_dev)
+
